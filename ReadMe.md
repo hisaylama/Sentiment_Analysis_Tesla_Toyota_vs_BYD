@@ -1,6 +1,6 @@
-# Sentiment Analysis from Financial News data for BYD and Tesla
+# Sentiment Analysis from Financial News data for BYD, Toyota and Tesla
 
-This project performs sentiment analysis on financial news headlines for a list of stock tickers (BYD and TSLA). 
+This project performs sentiment analysis on financial news headlines for a list of stock tickers (BYD, TM and TSLA). 
 
 - **Data Source:**
     - News headlines are scraped from [Finviz](https://finviz.com/), a popular financial news and stock screener platform.
