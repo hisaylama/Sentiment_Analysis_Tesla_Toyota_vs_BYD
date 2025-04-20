@@ -5,7 +5,7 @@ This project performs sentiment analysis on financial news headlines for a list 
 # Description
 - **Data Source:**
     - News headlines are scraped from [Finviz](https://finviz.com/), a popular financial news and stock screener platform.
-    -  **Key Libraries Used:**
+-  **Key Libraries Used:**
     - `BeautifulSoup`: For parsing and extracting news headlines from HTML (web scraping).
     - `urllib.request.Request`: For making HTTP requests to retrieve webpage content.
     - `nltk (VADER)`: For performing sentiment analysis on news headlines.
