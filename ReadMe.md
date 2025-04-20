@@ -19,3 +19,6 @@ Generates visualizations that show sentiment score patterns over time for select
   - Parse News Headlines and Build DataFrame
   - Perform Sentiment Analysis and Prepare Data
   - Visualize Sentiment Analysis Results
+
+# Usage
+---
