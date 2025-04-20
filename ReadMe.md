@@ -1,6 +1,6 @@
 # Sentiment Analysis from Financial News data for BYD and Tesla
 
-This project performs sentiment analysis on financial news headlines for a list of stock tickers. The process involves web scraping, data parsing, sentiment scoring, and visualization. 
+This project performs sentiment analysis on financial news headlines for a list of stock tickers (BYD and TSLA). 
 
 - **Data Source:**
 - News headlines are scraped from [Finviz](https://finviz.com/), a popular financial news and stock screener platform.
