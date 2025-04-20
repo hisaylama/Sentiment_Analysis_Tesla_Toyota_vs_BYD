@@ -3,7 +3,7 @@
 This project performs sentiment analysis on financial news headlines for a list of stock tickers (BYD and TSLA). 
 
 - **Data Source:**
-- News headlines are scraped from [Finviz](https://finviz.com/), a popular financial news and stock screener platform.
+    - News headlines are scraped from [Finviz](https://finviz.com/), a popular financial news and stock screener platform.
   
 - **Key Libraries Used:**
   - `BeautifulSoup`: For parsing and extracting news headlines from HTML (web scraping).
